@@ -12,6 +12,8 @@ public class NumerosAleatorios {
 		for (int i = 0; i < numeros.length; i++) {
 			numeros[i] = random.nextInt(9+2);
 			System.out.println(numeros[i]);
+			
+			int num1= 1;
 		}
 		
 		
